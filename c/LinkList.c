@@ -134,3 +134,4 @@ void GetElem(List L, ElemType e)//查找在链表中是否有e这个元素，有
 	}
 	printf("结果：未找到相关元素！\n");
 }
+
